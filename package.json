@@ -35,7 +35,7 @@
   "devDependencies": {
     "@sinonjs/referee": "^2.0.0",
     "benchmark": "2.1.4",
-    "eslint": "^4.19.1",
+    "eslint": "^10.14.0",
     "eslint-config-prettier": "2.9.0",
     "eslint-config-sinon": "^1.0.3",
     "eslint-plugin-ie11": "^1.0.0",
